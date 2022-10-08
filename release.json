@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/79281714",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/79281714/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/79281714/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/3",
-  "id": 79281714,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/79341887",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/79341887/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/79341887/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/4",
+  "id": 79341887,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84Eub4y",
-  "tag_name": "3",
+  "node_id": "RE_kwDOIHyZj84Euqk_",
+  "tag_name": "4",
   "target_commitish": "main",
-  "name": "v07-10-2022",
+  "name": "v08-10-2022",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-05T22:58:16Z",
-  "published_at": "2022-10-07T15:01:23Z",
+  "published_at": "2022-10-08T14:56:07Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/80282626",
-      "id": 80282626,
-      "node_id": "RA_kwDOIHyZj84EyQQC",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/80376576",
+      "id": 80376576,
+      "node_id": "RA_kwDOIHyZj84EynMA",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,12 +63,46 @@
       "state": "uploaded",
       "size": 1201369,
       "download_count": 0,
-      "created_at": "2022-10-07T15:01:24Z",
-      "updated_at": "2022-10-07T15:01:25Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/3/mindetach.zip"
+      "created_at": "2022-10-08T14:56:08Z",
+      "updated_at": "2022-10-08T14:56:08Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/4/mindetach.zip"
+    },
+    {
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/80376581",
+      "id": 80376581,
+      "node_id": "RA_kwDOIHyZj84EynMF",
+      "name": "youtube-revanced-v17.40.35-all.apk",
+      "label": "",
+      "uploader": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "site_admin": false
+      },
+      "content_type": "application/vnd.android.package-archive",
+      "state": "uploaded",
+      "size": 114560484,
+      "download_count": 0,
+      "created_at": "2022-10-08T14:56:08Z",
+      "updated_at": "2022-10-08T14:56:11Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/4/youtube-revanced-v17.40.35-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/3",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/3",
-  "body": "2022-10-07\n \nCLI: revanced-cli-2.15.0-all.jar \nIntegrations: app-release-unsigned-v0.51.0.apk \nPatches: revanced-patches-2.81.0.jar \n[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.81.0) \n\nYouTube version: 17.40.34 \n \nUse [microG APK](https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced/) for YouTube and Music"
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/4",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/4",
+  "body": "2022-10-08\n \nCLI: revanced-cli-2.15.0-all.jar \nIntegrations: app-release-unsigned-v0.51.0.apk \nPatches: revanced-patches-2.81.1.jar \n[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.81.1) \n\nYouTube version: 17.40.35 \n \nUse [microG APK](https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced/) for YouTube and Music"
 }
