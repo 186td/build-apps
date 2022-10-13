@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/79660123",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/79660123/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/79660123/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/8",
-  "id": 79660123,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/79792647",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/79792647/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/79792647/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/9",
+  "id": 79792647,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84Ev4Rb",
-  "tag_name": "8",
+  "node_id": "RE_kwDOIHyZj84EwYoH",
+  "tag_name": "9",
   "target_commitish": "main",
-  "name": "v12-10-2022",
+  "name": "v13-10-2022",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-11T22:58:51Z",
-  "published_at": "2022-10-12T15:04:14Z",
+  "published_at": "2022-10-13T15:01:06Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/80779524",
-      "id": 80779524,
-      "node_id": "RA_kwDOIHyZj84E0JkE",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/80906811",
+      "id": 80906811,
+      "node_id": "RA_kwDOIHyZj84E0oo7",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,15 +63,15 @@
       "state": "uploaded",
       "size": 1201369,
       "download_count": 0,
-      "created_at": "2022-10-12T15:04:15Z",
-      "updated_at": "2022-10-12T15:04:16Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/8/mindetach.zip"
+      "created_at": "2022-10-13T15:01:07Z",
+      "updated_at": "2022-10-13T15:01:08Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/9/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/80779528",
-      "id": 80779528,
-      "node_id": "RA_kwDOIHyZj84E0JkI",
-      "name": "youtube-revanced-v17.41.32-all.apk",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/80906814",
+      "id": 80906814,
+      "node_id": "RA_kwDOIHyZj84E0oo-",
+      "name": "youtube-revanced-v17.41.34-all.apk",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -95,14 +95,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 114668185,
+      "size": 114565785,
       "download_count": 0,
-      "created_at": "2022-10-12T15:04:16Z",
-      "updated_at": "2022-10-12T15:04:20Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/8/youtube-revanced-v17.41.32-all.apk"
+      "created_at": "2022-10-13T15:01:09Z",
+      "updated_at": "2022-10-13T15:01:15Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/9/youtube-revanced-v17.41.34-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/8",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/8",
-  "body": "2022-10-12\n \nCLI: revanced-cli-2.15.0-all.jar \nIntegrations: app-release-unsigned-v0.51.1.apk \nPatches: revanced-patches-2.81.11.jar \n[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.81.11) \n\nYouTube version: 17.41.32 \n \nUse [microG APK](https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced/) for YouTube and Music"
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/9",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/9",
+  "body": "2022-10-13\n \nCLI: revanced-cli-2.15.0-all.jar \nIntegrations: app-release-unsigned-v0.52.0.apk \nPatches: revanced-patches-2.82.0.jar \n[Patches Changelog](https://github.com/revanced/revanced-patches/releases/tag/v2.82.0) \n\nYouTube version: 17.41.34 \n \nUse [microG APK](https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced/) for YouTube and Music"
 }
