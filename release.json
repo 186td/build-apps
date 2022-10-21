@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/80469927",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/80469927/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/80469927/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/15",
-  "id": 80469927,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/80634447",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/80634447/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/80634447/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/16",
+  "id": 80634447,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84Ey9-n",
-  "tag_name": "15",
+  "node_id": "RE_kwDOIHyZj84EzmJP",
+  "tag_name": "16",
   "target_commitish": "main",
   "name": "ReVanced",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-19T22:59:42Z",
-  "published_at": "2022-10-20T15:04:01Z",
+  "published_at": "2022-10-21T15:56:30Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/81686103",
-      "id": 81686103,
-      "node_id": "RA_kwDOIHyZj84E3m5X",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/81820430",
+      "id": 81820430,
+      "node_id": "RA_kwDOIHyZj84E4HsO",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,15 +63,15 @@
       "state": "uploaded",
       "size": 1201351,
       "download_count": 0,
-      "created_at": "2022-10-20T15:04:02Z",
-      "updated_at": "2022-10-20T15:04:02Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/15/mindetach.zip"
+      "created_at": "2022-10-21T15:56:30Z",
+      "updated_at": "2022-10-21T15:56:31Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/16/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/81686106",
-      "id": 81686106,
-      "node_id": "RA_kwDOIHyZj84E3m5a",
-      "name": "youtube-revanced-v17.42.32-all.apk",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/81820434",
+      "id": 81820434,
+      "node_id": "RA_kwDOIHyZj84E4HsS",
+      "name": "youtube-revanced-v17.42.33-all.apk",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -95,14 +95,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 114291848,
+      "size": 114316424,
       "download_count": 0,
-      "created_at": "2022-10-20T15:04:03Z",
-      "updated_at": "2022-10-20T15:04:08Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/15/youtube-revanced-v17.42.32-all.apk"
+      "created_at": "2022-10-21T15:56:32Z",
+      "updated_at": "2022-10-21T15:56:36Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/16/youtube-revanced-v17.42.33-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/15",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/15",
-  "body": "CLI: revanced-cli-2.15.0-all.jar  \nIntegrations: app-release-unsigned-v0.52.1.apk  \nPatches: revanced-patches-2.83.2.jar  \n#### [2.83.2](https://github.com/revanced/revanced-patches/compare/v2.83.1...v2.83.2) (2022-10-19)\n### Bug Fixes\n* **youtube/video-ads:** add back initial method to block ads ([#818](https://github.com/revanced/revanced-patches/issues/818)) ([8b02acd](https://github.com/revanced/revanced-patches/commit/8b02acd3b33c4702d81ec46dccb35604ec5fbe02))\n\n  \nYouTube: 17.42.32  \n\nUse microg for non root YT apks"
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/16",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/16",
+  "body": "CLI: revanced-cli-2.15.0-all.jar  \nIntegrations: app-release-unsigned-v0.54.0.apk  \nPatches: revanced-patches-2.85.1.jar  \n#### [2.85.1](https://github.com/revanced/revanced-patches/compare/v2.85.0...v2.85.1) (2022-10-21)\n### Bug Fixes\n* **youtube/theme:** extend dark mode theming ([#827](https://github.com/revanced/revanced-patches/issues/827)) ([6d803c5](https://github.com/revanced/revanced-patches/commit/6d803c5386e1f6f6fb6a7fa0a9f0bb81ee1022ac))\n\n  \nYouTube: 17.42.33  \n\nUse microg for non root YT apks"
 }
