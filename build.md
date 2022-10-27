@@ -1,11 +1,11 @@
 CLI: revanced-cli-2.15.0-all.jar  
-Integrations: app-release-unsigned-v0.55.1.apk  
-Patches: revanced-patches-2.86.0.jar  
-### [2.86.0](https://github.com/revanced/revanced-patches/compare/v2.85.2...v2.86.0) (2022-10-25)
-### Features
-* **youtube/theme:** extend theming to splash screen ([#769](https://github.com/revanced/revanced-patches/issues/769)) ([f7bb937](https://github.com/revanced/revanced-patches/commit/f7bb937ef2374d1042ea3772f03627d7f0111b78))
+Integrations: app-release-unsigned-v0.59.0.apk  
+Patches: revanced-patches-2.92.2.jar  
+#### [2.92.2](https://github.com/revanced/revanced-patches/compare/v2.92.1...v2.92.2) (2022-10-27)
+### Bug Fixes
+* **youtube/theme:** theme missing gray color ([#873](https://github.com/revanced/revanced-patches/issues/873)) ([5267d56](https://github.com/revanced/revanced-patches/commit/5267d56a05b4053d556171ffd2d2870f3f932e8e))
 
   
-YouTube: 17.42.33  
+YouTube: 17.42.34  
 
 Use microg for non root YT apks  
