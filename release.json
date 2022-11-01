@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/81562216",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/81562216/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/81562216/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/25",
-  "id": 81562216,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/81668767",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/81668767/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/81668767/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/26",
+  "id": 81668767,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84E3Ipo",
-  "tag_name": "25",
+  "node_id": "RE_kwDOIHyZj84E3iqf",
+  "tag_name": "26",
   "target_commitish": "main",
   "name": "ReVanced",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-19T22:59:42Z",
-  "published_at": "2022-10-31T14:57:32Z",
+  "published_at": "2022-11-01T14:59:17Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/82922586",
-      "id": 82922586,
-      "node_id": "RA_kwDOIHyZj84E8Uxa",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/83049001",
+      "id": 83049001,
+      "node_id": "RA_kwDOIHyZj84E8zop",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,14 +63,14 @@
       "state": "uploaded",
       "size": 1201351,
       "download_count": 0,
-      "created_at": "2022-10-31T14:57:33Z",
-      "updated_at": "2022-10-31T14:57:33Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/25/mindetach.zip"
+      "created_at": "2022-11-01T14:59:17Z",
+      "updated_at": "2022-11-01T14:59:18Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/26/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/82922589",
-      "id": 82922589,
-      "node_id": "RA_kwDOIHyZj84E8Uxd",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/83049004",
+      "id": 83049004,
+      "node_id": "RA_kwDOIHyZj84E8zos",
       "name": "youtube-revanced-v17.43.36-all.apk",
       "label": "",
       "uploader": {
@@ -95,14 +95,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 114832345,
+      "size": 114947033,
       "download_count": 0,
-      "created_at": "2022-10-31T14:57:34Z",
-      "updated_at": "2022-10-31T14:57:36Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/25/youtube-revanced-v17.43.36-all.apk"
+      "created_at": "2022-11-01T14:59:18Z",
+      "updated_at": "2022-11-01T14:59:22Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/26/youtube-revanced-v17.43.36-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/25",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/25",
-  "body": "CLI: revanced-cli-2.16.0-all.jar  \nIntegrations: app-release-unsigned-v0.64.0.apk  \nPatches: revanced-patches-2.100.1.jar  \n#### [2.100.1](https://github.com/revanced/revanced-patches/compare/v2.100.0...v2.100.1) (2022-10-31)\n\n  \nYouTube: 17.43.36  \n\nUse microg for non root YT apks"
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/26",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/26",
+  "body": "CLI: revanced-cli-2.16.0-all.jar  \nIntegrations: app-release-unsigned-v0.65.0.apk  \nPatches: revanced-patches-2.100.3.jar  \n#### [2.100.3](https://github.com/revanced/revanced-patches/compare/v2.100.2...v2.100.3) (2022-11-01)\n### Bug Fixes\n* **youtube/video-ads:** add switch to temporarily fix buffering issues ([7aa3bce](https://github.com/revanced/revanced-patches/commit/7aa3bce6ccd669a66de10ef6ffe2151f27b40365))\n\n  \nYouTube: 17.43.36  \n\nUse microg for non root YT apks"
 }
