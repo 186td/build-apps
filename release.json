@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/82276921",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/82276921/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/82276921/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/32",
-  "id": 82276921,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/82399843",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/82399843/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/82399843/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/33",
+  "id": 82399843,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84E53I5",
-  "tag_name": "32",
+  "node_id": "RE_kwDOIHyZj84E6VJj",
+  "tag_name": "33",
   "target_commitish": "main",
   "name": "ReVanced",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-19T22:59:42Z",
-  "published_at": "2022-11-07T14:42:32Z",
+  "published_at": "2022-11-08T14:44:45Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/83759140",
-      "id": 83759140,
-      "node_id": "RA_kwDOIHyZj84E_hAk",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/83883985",
+      "id": 83883985,
+      "node_id": "RA_kwDOIHyZj84E__fR",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,14 +63,14 @@
       "state": "uploaded",
       "size": 1201351,
       "download_count": 0,
-      "created_at": "2022-11-07T14:42:33Z",
-      "updated_at": "2022-11-07T14:42:33Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/32/mindetach.zip"
+      "created_at": "2022-11-08T14:44:46Z",
+      "updated_at": "2022-11-08T14:44:46Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/33/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/83759145",
-      "id": 83759145,
-      "node_id": "RA_kwDOIHyZj84E_hAp",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/83883988",
+      "id": 83883988,
+      "node_id": "RA_kwDOIHyZj84E__fU",
       "name": "youtube-revanced-v17.44.34-all.apk",
       "label": "",
       "uploader": {
@@ -95,14 +95,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 115050644,
+      "size": 114989204,
       "download_count": 0,
-      "created_at": "2022-11-07T14:42:33Z",
-      "updated_at": "2022-11-07T14:42:36Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/32/youtube-revanced-v17.44.34-all.apk"
+      "created_at": "2022-11-08T14:44:47Z",
+      "updated_at": "2022-11-08T14:44:53Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/33/youtube-revanced-v17.44.34-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/32",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/32",
-  "body": "CLI: revanced-cli-2.16.0-all.jar  \nIntegrations: app-release-unsigned-v0.67.0.apk  \nPatches: revanced-patches-2.104.0.jar  \n### [2.104.0](https://github.com/revanced/revanced-patches/compare/v2.103.0...v2.104.0) (2022-11-06)\n### Features\n* **hexeditor:** `disable-ads` patch ([#973](https://github.com/revanced/revanced-patches/issues/973)) ([a48e5fd](https://github.com/revanced/revanced-patches/commit/a48e5fd50dcf9ee061ffd5c5ed0b997067f40652))\n\n  \nYouTube: 17.44.34  \n\nUse microg for non root YT apks"
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/33",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/33",
+  "body": "CLI: revanced-cli-2.16.0-all.jar  \nIntegrations: app-release-unsigned-v0.67.1.apk  \nPatches: revanced-patches-2.104.1.jar  \n#### [2.104.1](https://github.com/revanced/revanced-patches/compare/v2.104.0...v2.104.1) (2022-11-07)\n### Bug Fixes\n* **youtube/general-ads:** incorrect description for info panels ([77b029e](https://github.com/revanced/revanced-patches/commit/77b029e82e481a13516b1c8a888c42817507cdea))\n* **youtube/hide-info-cards:** remove initial popup of info-cards ([#992](https://github.com/revanced/revanced-patches/issues/992)) ([19f3f03](https://github.com/revanced/revanced-patches/commit/19f3f038585c313a969adf3d4095a60ab4c83ede))\n\n  \nYouTube: 17.44.34  \n\nUse microg for non root YT apks"
 }
