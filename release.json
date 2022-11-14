@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/82911120",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/82911120/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/82911120/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/38",
-  "id": 82911120,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/82995532",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/82995532/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/82995532/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/39",
+  "id": 82995532,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84E8R-Q",
-  "tag_name": "38",
+  "node_id": "RE_kwDOIHyZj84E8mlM",
+  "tag_name": "39",
   "target_commitish": "main",
   "name": "ReVanced",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-19T22:59:42Z",
-  "published_at": "2022-11-13T14:39:34Z",
+  "published_at": "2022-11-14T14:43:21Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/84459407",
-      "id": 84459407,
-      "node_id": "RA_kwDOIHyZj84FCL-P",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/84569913",
+      "id": 84569913,
+      "node_id": "RA_kwDOIHyZj84FCm85",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,14 +63,14 @@
       "state": "uploaded",
       "size": 1201351,
       "download_count": 0,
-      "created_at": "2022-11-13T14:39:35Z",
-      "updated_at": "2022-11-13T14:39:35Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/38/mindetach.zip"
+      "created_at": "2022-11-14T14:43:22Z",
+      "updated_at": "2022-11-14T14:43:23Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/39/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/84459408",
-      "id": 84459408,
-      "node_id": "RA_kwDOIHyZj84FCL-Q",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/84569921",
+      "id": 84569921,
+      "node_id": "RA_kwDOIHyZj84FCm9B",
       "name": "youtube-revanced-v17.45.34-all.apk",
       "label": "",
       "uploader": {
@@ -95,14 +95,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 115305560,
+      "size": 115301464,
       "download_count": 0,
-      "created_at": "2022-11-13T14:39:36Z",
-      "updated_at": "2022-11-13T14:39:38Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/38/youtube-revanced-v17.45.34-all.apk"
+      "created_at": "2022-11-14T14:43:23Z",
+      "updated_at": "2022-11-14T14:43:31Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/39/youtube-revanced-v17.45.34-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/38",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/38",
-  "body": "CLI: revanced-cli-2.16.0-all.jar  \nIntegrations: app-release-unsigned-v0.68.1.apk  \nPatches: revanced-patches-2.108.0.jar  \n### [2.108.0](https://github.com/revanced/revanced-patches/compare/v2.107.0...v2.108.0) (2022-11-13)\n### Features\n* **twitch:** `debug-mode` patch ([#1031](https://github.com/revanced/revanced-patches/issues/1031)) ([c514860](https://github.com/revanced/revanced-patches/commit/c514860bc4a46295b11f09df9ffc1c556b798eb3))\n\n  \nYouTube: 17.45.34  \n\nUse microg for non root YT apks"
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/39",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/39",
+  "body": "CLI: revanced-cli-2.16.0-all.jar  \nIntegrations: app-release-unsigned-v0.68.3.apk  \nPatches: revanced-patches-2.109.0.jar  \n### [2.109.0](https://github.com/revanced/revanced-patches/compare/v2.108.0...v2.109.0) (2022-11-13)\n### Features\n* **twitch:** `block-audio-ads` patch ([#1041](https://github.com/revanced/revanced-patches/issues/1041)) ([3419bae](https://github.com/revanced/revanced-patches/commit/3419baed489ce231f84b3e2d600cf123cdfa7ff7))\n* **twitch:** `block-video-ads` patch  ([#1040](https://github.com/revanced/revanced-patches/issues/1040)) ([b47bf24](https://github.com/revanced/revanced-patches/commit/b47bf24d1b52cfa1883a942894a6216ae81b8325))\n\n  \nYouTube: 17.45.34  \n\nUse microg for non root YT apks"
 }
