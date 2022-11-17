@@ -6,6 +6,6 @@ Patches: revanced-patches-2.111.0.jar
 * **iconpackstudio:**  patch ([#1047](https://github.com/revanced/revanced-patches/issues/1047)) ([fcbca9c](https://github.com/revanced/revanced-patches/commit/fcbca9cf0ff3940c48df53a9e5e4d06d65f9a1b1))
 
   
-YouTube: 17.45.34  
+YouTube: 17.46.32  
 
 Use microg for non root YT apks  
