@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/83680758",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/83680758/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/83680758/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/45",
-  "id": 83680758,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/83758918",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/83758918/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/83758918/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/46",
+  "id": 83758918,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84E_N32",
-  "tag_name": "45",
+  "node_id": "RE_kwDOIHyZj84E_g9G",
+  "tag_name": "46",
   "target_commitish": "main",
   "name": "ReVanced",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-19T22:59:42Z",
-  "published_at": "2022-11-20T14:38:11Z",
+  "published_at": "2022-11-21T14:39:26Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/85309057",
-      "id": 85309057,
-      "node_id": "RA_kwDOIHyZj84FFbaB",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/85426556",
+      "id": 85426556,
+      "node_id": "RA_kwDOIHyZj84FF4F8",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,14 +63,14 @@
       "state": "uploaded",
       "size": 1201351,
       "download_count": 0,
-      "created_at": "2022-11-20T14:38:12Z",
-      "updated_at": "2022-11-20T14:38:12Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/45/mindetach.zip"
+      "created_at": "2022-11-21T14:39:26Z",
+      "updated_at": "2022-11-21T14:39:27Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/46/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/85309059",
-      "id": 85309059,
-      "node_id": "RA_kwDOIHyZj84FFbaD",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/85426558",
+      "id": 85426558,
+      "node_id": "RA_kwDOIHyZj84FF4F-",
       "name": "youtube-revanced-v17.46.37-all.apk",
       "label": "",
       "uploader": {
@@ -95,14 +95,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 115677669,
+      "size": 115685861,
       "download_count": 0,
-      "created_at": "2022-11-20T14:38:13Z",
-      "updated_at": "2022-11-20T14:38:16Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/45/youtube-revanced-v17.46.37-all.apk"
+      "created_at": "2022-11-21T14:39:27Z",
+      "updated_at": "2022-11-21T14:39:30Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/46/youtube-revanced-v17.46.37-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/45",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/45",
-  "body": "CLI: revanced-cli-2.17.0-all.jar  \nIntegrations: app-release-unsigned-v0.74.0.apk  \nPatches: revanced-patches-2.114.0.jar  \n### [2.114.0](https://github.com/revanced/revanced-patches/compare/v2.113.0...v2.114.0) (2022-11-20)\n### Features\n* **youtube:** `disable-zoom-haptics` patch ([#1079](https://github.com/revanced/revanced-patches/issues/1079)) ([a7cfba5](https://github.com/revanced/revanced-patches/commit/a7cfba54fbb3ee0ee5511a45d0b3c4620eb0c861))\n\n  \nYouTube: 17.46.37  \n\nUse microg for non root YT apks"
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/46",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/46",
+  "body": "CLI: revanced-cli-2.17.0-all.jar  \nIntegrations: app-release-unsigned-v0.74.1.apk  \nPatches: revanced-patches-2.116.0.jar  \n### [2.116.0](https://github.com/revanced/revanced-patches/compare/v2.115.0...v2.116.0) (2022-11-21)\n### Features\n* **youtube/theme:** make amoled the default color for dark theme background\\\" ([2b68ac7](https://github.com/revanced/revanced-patches/commit/2b68ac7796e54ed07c697909a84b3847f4ed7f01))\n\n  \nYouTube: 17.46.37  \n\nUse microg for non root YT apks"
 }
