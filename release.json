@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/83758918",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/83758918/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/83758918/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/46",
-  "id": 83758918,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/83880303",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/83880303/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/83880303/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/47",
+  "id": 83880303,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84E_g9G",
-  "tag_name": "46",
+  "node_id": "RE_kwDOIHyZj84E_-lv",
+  "tag_name": "47",
   "target_commitish": "main",
   "name": "ReVanced",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-19T22:59:42Z",
-  "published_at": "2022-11-21T14:39:26Z",
+  "published_at": "2022-11-22T14:39:52Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/85426556",
-      "id": 85426556,
-      "node_id": "RA_kwDOIHyZj84FF4F8",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/85566316",
+      "id": 85566316,
+      "node_id": "RA_kwDOIHyZj84FGaNs",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,14 +63,14 @@
       "state": "uploaded",
       "size": 1201351,
       "download_count": 0,
-      "created_at": "2022-11-21T14:39:26Z",
-      "updated_at": "2022-11-21T14:39:27Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/46/mindetach.zip"
+      "created_at": "2022-11-22T14:39:53Z",
+      "updated_at": "2022-11-22T14:39:53Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/47/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/85426558",
-      "id": 85426558,
-      "node_id": "RA_kwDOIHyZj84FF4F-",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/85566318",
+      "id": 85566318,
+      "node_id": "RA_kwDOIHyZj84FGaNu",
       "name": "youtube-revanced-v17.46.37-all.apk",
       "label": "",
       "uploader": {
@@ -95,14 +95,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 115685861,
+      "size": 115636709,
       "download_count": 0,
-      "created_at": "2022-11-21T14:39:27Z",
-      "updated_at": "2022-11-21T14:39:30Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/46/youtube-revanced-v17.46.37-all.apk"
+      "created_at": "2022-11-22T14:39:54Z",
+      "updated_at": "2022-11-22T14:39:58Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/47/youtube-revanced-v17.46.37-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/46",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/46",
-  "body": "CLI: revanced-cli-2.17.0-all.jar  \nIntegrations: app-release-unsigned-v0.74.1.apk  \nPatches: revanced-patches-2.116.0.jar  \n### [2.116.0](https://github.com/revanced/revanced-patches/compare/v2.115.0...v2.116.0) (2022-11-21)\n### Features\n* **youtube/theme:** make amoled the default color for dark theme background\\\" ([2b68ac7](https://github.com/revanced/revanced-patches/commit/2b68ac7796e54ed07c697909a84b3847f4ed7f01))\n\n  \nYouTube: 17.46.37  \n\nUse microg for non root YT apks"
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/47",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/47",
+  "body": "CLI: revanced-cli-2.17.0-all.jar  \nIntegrations: app-release-unsigned-v0.75.0.apk  \nPatches: revanced-patches-2.117.0.jar  \n### [2.117.0](https://github.com/revanced/revanced-patches/compare/v2.116.0...v2.117.0) (2022-11-21)\n### Features\n* **tiktok:** `tiktok-web-login` patch ([#593](https://github.com/revanced/revanced-patches/issues/593)) ([233e578](https://github.com/revanced/revanced-patches/commit/233e578b4d1cd5e783369e0c855e8246d158f8ed))\n\n  \nYouTube: 17.46.37  \n\nUse microg for non root YT apks"
 }
