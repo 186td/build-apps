@@ -1,9 +1,9 @@
 CLI: revanced-cli-2.17.0-all.jar  
-Integrations: app-release-unsigned-v0.75.0.apk  
-Patches: revanced-patches-2.117.0.jar  
-### [2.117.0](https://github.com/revanced/revanced-patches/compare/v2.116.0...v2.117.0) (2022-11-21)
+Integrations: app-release-unsigned-v0.76.0.apk  
+Patches: revanced-patches-2.120.0.jar  
+### [2.120.0](https://github.com/revanced/revanced-patches/compare/v2.119.0...v2.120.0) (2022-11-23)
 ### Features
-* **tiktok:**  patch ([#593](https://github.com/revanced/revanced-patches/issues/593)) ([233e578](https://github.com/revanced/revanced-patches/commit/233e578b4d1cd5e783369e0c855e8246d158f8ed))
+* **youtube:**  patch ([#855](https://github.com/revanced/revanced-patches/issues/855)) ([9e14817](https://github.com/revanced/revanced-patches/commit/9e14817fd2ef29b9f3ec161d74ab972ba19066b0))
 
   
 YouTube: 17.46.37  
