@@ -8,6 +8,6 @@ Patches: revanced-patches-2.136.0.jar
 * **youtube:** drop support for compatibility of old versions ([7413aad](https://github.com/revanced/revanced-patches/commit/7413aad6d215f24a66ba9a33917c73dbdb0b7bc3))
 
   
-YouTube: 17.48.32  
+YouTube: 17.48.39  
 
 Use microg for non root YT apks  
