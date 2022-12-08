@@ -6,6 +6,6 @@ Patches: revanced-patches-2.140.0.jar
 * **music:** bump compatibility to v5.34.51 ([fc0c92e](https://github.com/revanced/revanced-patches/commit/fc0c92e2b68a2d93a02f4577aeb864955b1b5701))
 
   
-YouTube: 17.48.42  
+YouTube: 17.49.32  
 
 Use microg for non root YT apks  
