@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/87415184",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/87415184/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/87415184/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/74",
-  "id": 87415184,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/87526789",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/87526789/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/87526789/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/75",
+  "id": 87526789,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84FNdmQ",
-  "tag_name": "74",
+  "node_id": "RE_kwDOIHyZj84FN42F",
+  "tag_name": "75",
   "target_commitish": "main",
   "name": "ReVanced",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-19T22:59:42Z",
-  "published_at": "2022-12-28T14:36:38Z",
+  "published_at": "2022-12-29T14:36:48Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/89751414",
-      "id": 89751414,
-      "node_id": "RA_kwDOIHyZj84FWX92",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/89871164",
+      "id": 89871164,
+      "node_id": "RA_kwDOIHyZj84FW1M8",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,14 +63,14 @@
       "state": "uploaded",
       "size": 1201351,
       "download_count": 0,
-      "created_at": "2022-12-28T14:36:39Z",
-      "updated_at": "2022-12-28T14:36:39Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/74/mindetach.zip"
+      "created_at": "2022-12-29T14:36:48Z",
+      "updated_at": "2022-12-29T14:36:49Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/75/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/89751418",
-      "id": 89751418,
-      "node_id": "RA_kwDOIHyZj84FWX96",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/89871166",
+      "id": 89871166,
+      "node_id": "RA_kwDOIHyZj84FW1M-",
       "name": "youtube-revanced-v17.49.37-all.apk",
       "label": "",
       "uploader": {
@@ -95,14 +95,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 103141291,
+      "size": 103169963,
       "download_count": 0,
-      "created_at": "2022-12-28T14:36:40Z",
-      "updated_at": "2022-12-28T14:36:43Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/74/youtube-revanced-v17.49.37-all.apk"
+      "created_at": "2022-12-29T14:36:49Z",
+      "updated_at": "2022-12-29T14:36:52Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/75/youtube-revanced-v17.49.37-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/74",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/74",
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/75",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/75",
   "body": "CLI: revanced-cli-2.19.0-all.jar  \nIntegrations: app-release-unsigned-v0.87.0.apk  \nPatches: revanced-patches-2.147.0.jar  \n### [2.147.0](https://github.com/revanced/revanced-patches/compare/v2.146.0...v2.147.0) (2022-12-21)\n### Features\n* **youtube/return-youtube-dislike:** debug connection statistics, toast on error, high priority background threads ([#1320](https://github.com/revanced/revanced-patches/issues/1320)) ([30273a9](https://github.com/revanced/revanced-patches/commit/30273a9bbdd40453baeb09f26ac9d218569a3e71))\n\n  \nYouTube: 17.49.37  \n\nUse microg for non root YT apks"
 }
