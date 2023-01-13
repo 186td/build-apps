@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/186td/build-apps/releases/88740110",
-  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/88740110/assets",
-  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/88740110/assets{?name,label}",
-  "html_url": "https://github.com/186td/build-apps/releases/tag/86",
-  "id": 88740110,
+  "url": "https://api.github.com/repos/186td/build-apps/releases/88865568",
+  "assets_url": "https://api.github.com/repos/186td/build-apps/releases/88865568/assets",
+  "upload_url": "https://uploads.github.com/repos/186td/build-apps/releases/88865568/assets{?name,label}",
+  "html_url": "https://github.com/186td/build-apps/releases/tag/87",
+  "id": 88865568,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,19 +24,19 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIHyZj84FShEO",
-  "tag_name": "86",
+  "node_id": "RE_kwDOIHyZj84FS_sg",
+  "tag_name": "87",
   "target_commitish": "main",
   "name": "ReVanced",
   "draft": false,
   "prerelease": false,
   "created_at": "2022-10-19T22:59:42Z",
-  "published_at": "2023-01-12T14:46:40Z",
+  "published_at": "2023-01-13T14:37:25Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/91444739",
-      "id": 91444739,
-      "node_id": "RA_kwDOIHyZj84Fc1YD",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/91570884",
+      "id": 91570884,
+      "node_id": "RA_kwDOIHyZj84FdULE",
       "name": "mindetach.zip",
       "label": "",
       "uploader": {
@@ -63,14 +63,14 @@
       "state": "uploaded",
       "size": 1201351,
       "download_count": 0,
-      "created_at": "2023-01-12T14:46:41Z",
-      "updated_at": "2023-01-12T14:46:42Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/86/mindetach.zip"
+      "created_at": "2023-01-13T14:37:25Z",
+      "updated_at": "2023-01-13T14:37:26Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/87/mindetach.zip"
     },
     {
-      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/91444746",
-      "id": 91444746,
-      "node_id": "RA_kwDOIHyZj84Fc1YK",
+      "url": "https://api.github.com/repos/186td/build-apps/releases/assets/91570885",
+      "id": 91570885,
+      "node_id": "RA_kwDOIHyZj84FdULF",
       "name": "youtube-revanced-v17.49.37-all.apk",
       "label": "",
       "uploader": {
@@ -95,14 +95,14 @@
       },
       "content_type": "application/vnd.android.package-archive",
       "state": "uploaded",
-      "size": 103497811,
+      "size": 103489619,
       "download_count": 0,
-      "created_at": "2023-01-12T14:46:52Z",
-      "updated_at": "2023-01-12T14:46:56Z",
-      "browser_download_url": "https://github.com/186td/build-apps/releases/download/86/youtube-revanced-v17.49.37-all.apk"
+      "created_at": "2023-01-13T14:37:26Z",
+      "updated_at": "2023-01-13T14:37:29Z",
+      "browser_download_url": "https://github.com/186td/build-apps/releases/download/87/youtube-revanced-v17.49.37-all.apk"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/86",
-  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/86",
+  "tarball_url": "https://api.github.com/repos/186td/build-apps/tarball/87",
+  "zipball_url": "https://api.github.com/repos/186td/build-apps/zipball/87",
   "body": "CLI: revanced-cli-2.20.0-all.jar  \nIntegrations: revanced-integrations-0.92.2-v0.92.2.apk  \nPatches: revanced-patches-2.153.0.jar  \n### [2.153.0](https://github.com/revanced/revanced-patches/compare/v2.152.0...v2.153.0) (2023-01-07)\n### Bug Fixes\n* **youtube/general-ads:** move settings to correct preference screens ([cde45fc](https://github.com/revanced/revanced-patches/commit/cde45fca769eddea64072f13f836d46560a4a89a))\n### Features\n* **youtube/remember-video-quality:** simplify settings switch state description ([9bd42ec](https://github.com/revanced/revanced-patches/commit/9bd42ec1a1b54b103cd2550211515acdaf90e9de))\n* **youtube:** `remember-playback-rate` patch ([177e908](https://github.com/revanced/revanced-patches/commit/177e908dba260f184a2835b73b834563ca9c29fd))\n\n  \nYouTube: 17.49.37  \n\nUse microg for non root YT apks"
 }
